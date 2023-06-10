@@ -1,0 +1,201 @@
+LastName,FirstName,DOB,Age,Vocation,Smoke,HR,sBP,CholesterolBefore,Cholesterol_b4_level,CholesterolAfter,TAG,Survey,Delta,Group,year
+Patton,Dylan,1981-10-07,45,Energy manager,0,47,145,1.2,low,0.7,1.2,1,0.5,1,1981-10-07
+Howard,Sandra,1993-01-27,55,Tax adviser,0,51,115,1.2,low,1.0,0.6,3,0.2,1,1993-01-27
+Williams,Samantha,1973-12-21,35,IT consultant,0,54,120,2.0,low,1.7,1.3,3,0.3,1,1973-12-21
+Hensley,Ashley,1981-12-01,45,"Nurse, children's",0,54,103,2.1,low,2.1,1.6,4,0.0,1,1981-12-01
+Wilson,Robert,1964-06-23,48,Clinical embryologist,0,61,138,2.8,low,2.8,2.1,5,0.0,1,1964-06-23
+Diaz,Leslie,1994-08-25,50,Politician's assistant,0,59,122,2.8,low,2.6,1.4,4,0.2,1,1994-08-25
+Zimmerman,Frank,1981-03-04,56,Police officer,0,60,129,2.9,low,2.6,2.4,1,0.3,1,1981-03-04
+Harris,Aaron,1948-01-10,60,"Nurse, children's",0,61,131,3.1,low,2.9,2.2,1,0.2,1,1948-01-10
+Smith,William,1998-11-20,46,Scientific laboratory technician,0,58,111,3.1,low,2.8,2.4,1,0.3,0,1998-11-20
+Fletcher,Andrea,1955-12-23,33,Lexicographer,0,59,122,3.2,low,2.8,1.7,5,0.4,1,1955-12-23
+Wells,James,1998-08-09,47,Charity fundraiser,0,62,121,3.2,low,2.7,1.7,4,0.5,1,1998-08-09
+Perez,Lisa,1983-09-05,37,Chief Marketing Officer,0,61,119,3.3,low,2.9,2.0,3,0.4,1,1983-09-05
+Sandoval,Desiree,1981-11-08,51,Hydrologist,0,61,135,3.3,low,3.1,2.3,5,0.2,1,1981-11-08
+Knight,Karen,1941-06-14,58,Advertising account planner,0,62,134,3.4,low,3.3,2.1,2,0.1,0,1941-06-14
+Stewart,Evan,1934-12-22,59,Web designer,0,75,162,3.5,low,3.4,2.4,3,0.1,1,1934-12-22
+Johnson,Mark,1958-11-22,40,Lobbyist,2,62,140,3.5,low,2.9,2.6,1,0.6,1,1958-11-22
+Chen,Roger,1985-11-19,37,Photographer,0,59,121,3.5,low,3.4,2.3,2,0.1,0,1985-11-19
+Sanchez,Dennis,1945-10-25,52,Chartered loss adjuster,0,63,129,3.5,low,3.5,2.5,1,0.0,1,1945-10-25
+Hendrix,Eric,1969-05-04,47,Community education officer,2,61,138,3.6,low,3.2,2.3,1,0.4,0,1969-05-04
+Burnett,Kathleen,1970-03-23,51,Occupational hygienist,0,64,144,3.7,low,3.7,2.2,1,0.0,1,1970-03-23
+Bradley,Mr.,1990-09-15,65,"Conservation officer, nature",0,64,136,3.7,low,3.6,2.0,4,0.1,1,1990-09-15
+Wilcox,Lacey,1998-02-24,47,"Chemist, analytical",0,60,115,3.7,low,3.4,2.1,5,0.3,0,1998-02-24
+Aguilar,James,2000-11-05,53,Immunologist,0,64,134,3.7,low,3.5,2.0,1,0.2,0,2000-11-05
+Banks,Michael,1977-08-19,45,Exhibition designer,2,62,132,3.7,low,3.6,2.6,3,0.1,0,1977-08-19
+Williams,Clifford,1957-05-04,33,Special effects artist,2,60,134,3.7,low,3.5,2.5,4,0.2,0,1957-05-04
+Smith,Danny,1941-01-09,60,Broadcast presenter,2,65,136,3.8,low,3.3,2.1,2,0.5,1,1941-01-09
+Herrera,Lori,1960-01-17,42,"Psychologist, occupational",0,63,122,3.8,low,3.5,2.7,1,0.3,1,1960-01-17
+Ingram,Melinda,1944-07-07,49,Midwife,0,65,130,3.9,low,3.6,2.8,3,0.3,1,1944-07-07
+Hale,Sonya,1945-06-14,47,Meteorologist,2,67,154,3.9,low,3.5,2.6,3,0.4,1,1945-06-14
+Patrick,Lisa,1958-11-02,43,Sports therapist,0,65,145,3.9,low,3.5,2.2,4,0.4,1,1958-11-02
+Valenzuela,Brittany,1992-08-02,49,"Therapist, horticultural",0,59,132,3.9,low,3.5,2.6,2,0.4,0,1992-08-02
+Kane,David,1981-08-11,40,Mining engineer,0,63,143,4.0,low,3.8,2.2,5,0.2,0,1981-08-11
+Hardin,Douglas,1971-06-01,56,Estate agent,0,63,128,4.0,low,3.8,2.3,3,0.2,0,1971-06-01
+Boyd,Kyle,1959-12-30,32,Waste management officer,0,63,133,4.0,low,3.8,2.5,5,0.2,0,1959-12-30
+Tyler,Mr.,1940-08-27,48,Tourist information centre manager,0,62,136,4.1,low,3.8,2.3,2,0.3,0,1940-08-27
+Evans,William,1957-08-04,66,"Lecturer, higher education",0,61,127,4.2,low,3.9,2.2,5,0.3,0,1957-08-04
+Howell,Darryl,1996-09-13,43,Research scientist (physical sciences),1,65,140,4.2,low,4.1,3.1,5,0.10000000000000099,1,1996-09-13
+Carter,Jeremiah,1954-02-08,42,Technical brewer,0,64,139,4.2,low,4.1,3.1,4,0.10000000000000099,0,1954-02-08
+Long,Derek,1997-06-22,47,Minerals surveyor,0,65,128,4.2,low,4.1,2.6,3,0.10000000000000099,0,1997-06-22
+Lopez,Derrick,1934-01-02,67,Commercial/residential surveyor,0,66,128,4.2,low,3.9,2.3,5,0.3,1,1934-01-02
+Clay,Laurie,1981-06-12,76,"Lecturer, further education",2,67,136,4.2,low,3.9,3.0,2,0.3,1,1981-06-12
+Price,Joseph,1938-02-21,57,"Programmer, systems",0,54,104,4.3,low,4.0,3.1,2,0.3,0,1938-02-21
+Schwartz,Tammy,1975-08-11,60,Insurance claims handler,2,69,133,4.3,low,4.0,3.0,2,0.3,1,1975-08-11
+Avila,Joshua,1978-01-19,55,Media planner,0,64,129,4.3,low,4.1,2.5,2,0.2,0,1978-01-19
+Bowman,Kenneth,1934-07-13,70,Magazine features editor,1,68,135,4.3,low,4.2,3.1,1,0.1,1,1934-07-13
+Fritz,Blake,1952-08-07,56,Research scientist (medical),0,62,133,4.3,low,4.2,2.5,3,0.1,0,1952-08-07
+Olson,Brian,1958-12-14,74,Arts administrator,0,67,132,4.3,low,3.9,3.1,1,0.4,1,1958-12-14
+White,Michael,1954-11-24,34,Museum/gallery exhibitions officer,0,63,137,4.3,low,4.0,3.0,5,0.3,0,1954-11-24
+Sellers,Matthew,1957-09-17,40,"Scientist, research (physical sciences)",0,65,132,4.3,low,4.2,3.1,5,0.1,0,1957-09-17
+Brown,Matthew,1939-09-06,61,"Journalist, magazine",0,63,137,4.3,low,4.1,2.2,2,0.2,0,1939-09-06
+Lewis,Joshua,1985-09-20,55,Professor Emeritus,0,66,140,4.4,low,4.0,2.4,3,0.4,0,1985-09-20
+Mendoza,Kayla,1979-08-05,71,"Buyer, industrial",1,66,133,4.4,low,4.1,2.8,5,0.30000000000000104,0,1979-08-05
+Padilla,Kathy,1983-01-03,44,"Journalist, newspaper",0,68,139,4.4,low,3.9,2.8,5,0.5,1,1983-01-03
+Abbott,Christopher,1963-06-12,69,Ergonomist,2,66,128,4.4,low,4.2,2.6,2,0.2,0,1963-06-12
+Jacobs,Stephanie,1977-06-18,40,Estate manager/land agent,0,69,139,4.4,low,4.0,2.7,2,0.4,1,1977-06-18
+Johnson,Juan,1956-12-09,53,Logistics and distribution manager,0,65,141,4.5,low,4.0,2.9,5,0.5,0,1956-12-09
+King,Craig,2001-03-06,39,"Scientist, audiological",0,67,135,4.5,low,4.3,3.2,5,0.2,0,2001-03-06
+Palmer,Tracy,1950-10-08,38,Counselling psychologist,0,65,148,4.5,low,3.8,3.2,5,0.7,0,1950-10-08
+Boyle,John,1979-07-30,36,"Pharmacist, community",1,66,148,4.5,low,4.4,3.2,2,0.1,0,1979-07-30
+Dennis,Jeremy,1983-02-03,40,Midwife,1,69,158,4.5,low,4.4,2.7,5,0.1,1,1983-02-03
+Young,Janet,1981-03-18,33,Aeronautical engineer,1,65,133,4.5,low,4.1,2.3,3,0.4,0,1981-03-18
+James,Mr.,1995-08-10,50,Advertising copywriter,0,64,144,4.6,low,4.0,2.6,2,0.6,0,1995-08-10
+Sherman,Scott,1965-02-26,51,Landscape architect,0,68,145,4.6,low,4.4,2.5,2,0.19999999999999898,1,1965-02-26
+Miles,Stephanie,1942-04-25,64,"Psychologist, sport and exercise",0,66,150,4.6,low,4.8,2.6,2,-0.2,0,1942-04-25
+Gilbert,Katrina,1964-06-08,41,"Surveyor, hydrographic",0,68,133,4.6,low,4.4,2.9,5,0.19999999999999898,0,1964-06-08
+Smith,Joseph,1981-11-17,76,"Secretary, company",0,66,147,4.6,low,4.6,3.3,1,0.0,0,1981-11-17
+Ellis,Jeremy,1986-07-26,43,Financial controller,1,68,132,4.6,low,4.3,3.2,4,0.3,1,1986-07-26
+Kennedy,Linda,1993-10-24,44,"Teacher, secondary school",0,65,136,4.7,low,4.1,3.1,5,0.600000000000001,0,1993-10-24
+Garcia,Mandy,1985-05-31,62,Cabin crew,2,71,154,4.7,low,4.5,2.4,4,0.2,1,1985-05-31
+Ruiz,Maria,1999-01-14,69,Cartographer,1,65,149,4.7,low,4.7,3.3,1,0.0,1,1999-01-14
+Pineda,Gary,1960-02-16,44,"Scientist, research (physical sciences)",1,66,132,4.7,low,4.7,2.4,2,0.0,0,1960-02-16
+Martinez,Tina,1941-05-31,76,Passenger transport manager,1,69,146,4.8,low,4.5,3.1,4,0.3,1,1941-05-31
+Long,Denise,1945-03-13,54,Graphic designer,1,83,168,4.9,low,4.4,2.7,2,0.5,0,1945-03-13
+White,Daniel,1975-03-23,39,Brewing technologist,1,65,136,4.9,low,4.5,2.5,1,0.4,0,1975-03-23
+Moore,Kyle,1963-12-26,63,Industrial buyer,1,65,141,4.9,low,4.4,2.8,1,0.5,1,1963-12-26
+Miller,Diana,1958-06-29,56,"Designer, textile",1,68,142,4.9,low,4.7,3.0,5,0.2,0,1958-06-29
+Hunt,Steven,1967-11-25,74,Nature conservation officer,1,69,158,4.9,low,4.4,2.9,2,0.5,0,1967-11-25
+Tucker,Haley,1999-11-11,38,Set designer,1,69,158,4.9,low,4.8,3.2,4,0.10000000000000099,1,1999-11-11
+Estrada,John,2000-11-13,51,Information officer,1,68,137,4.9,low,4.5,3.0,3,0.4,0,2000-11-13
+Ramsey,Scott,1951-07-03,49,Product designer,1,67,138,5.0,intermediate,4.6,3.0,5,0.4,0,1951-07-03
+Mercado,Cynthia,1942-07-23,51,Contractor,2,65,126,5.0,intermediate,4.7,3.1,5,0.3,0,1942-07-23
+Anderson,Marissa,1940-05-15,51,"Nurse, learning disability",1,75,170,5.0,intermediate,4.7,2.7,3,0.3,1,1940-05-15
+Bennett,Justin,1963-04-04,71,Insurance broker,1,66,142,5.0,intermediate,4.6,3.0,4,0.4,0,1963-04-04
+Mcdonald,Laura,1981-04-29,45,Hydrographic surveyor,1,66,127,5.0,intermediate,4.5,3.0,3,0.5,0,1981-04-29
+Cole,Thomas,1944-08-07,40,Corporate investment banker,1,72,141,5.0,intermediate,4.7,2.8,2,0.3,1,1944-08-07
+Lopez,Levi,1980-09-24,62,Bookseller,1,71,159,5.0,intermediate,4.9,3.0,5,0.1,1,1980-09-24
+Washington,Jeffrey,1994-12-04,47,Waste management officer,1,67,154,5.1,intermediate,4.7,2.8,2,0.4,0,1994-12-04
+Carter,Christopher,1966-12-07,73,Lawyer,2,67,151,5.1,intermediate,5.0,3.2,1,0.1,0,1966-12-07
+Miller,Daniel,1975-09-08,67,"Surveyor, mining",1,70,143,5.1,intermediate,5.0,3.5,5,0.1,0,1975-09-08
+Powell,Tara,1996-06-29,75,"Engineer, mining",1,69,137,5.2,intermediate,5.2,2.7,2,0.0,0,1996-06-29
+Pierce,Richard,1966-12-16,62,Dealer,2,69,147,5.2,intermediate,5.0,2.9,5,0.2,0,1966-12-16
+Dixon,Dylan,1965-03-10,72,"Psychotherapist, child",1,73,158,5.3,intermediate,4.9,3.5,3,0.4,1,1965-03-10
+Dawson,John,1979-06-14,47,Computer games developer,1,73,158,5.3,intermediate,5.3,3.6,5,0.0,0,1979-06-14
+Wagner,Shari,2001-08-29,51,Paramedic,2,68,149,5.3,intermediate,5.0,3.6,2,0.3,0,2001-08-29
+Cain,Sharon,1981-06-15,67,Clinical biochemist,1,72,139,5.5,intermediate,5.5,2.8,1,0.0,0,1981-06-15
+Hernandez,Heidi,1995-12-23,55,Forensic psychologist,1,77,167,5.5,intermediate,5.3,3.3,5,0.2,1,1995-12-23
+Ibarra,Brandi,1973-11-01,32,Communications engineer,1,72,159,5.5,intermediate,5.3,3.7,1,0.2,0,1973-11-01
+Williams,Jason,1944-12-22,60,Herpetologist,1,71,148,5.6,intermediate,5.3,3.4,4,0.3,0,1944-12-22
+Pruitt,Robert,1966-07-15,52,Midwife,1,75,150,5.6,intermediate,5.3,3.3,1,0.3,1,1966-07-15
+Richardson,Brittany,1947-11-23,71,"Engineer, manufacturing",1,72,146,5.7,intermediate,5.3,3.3,2,0.4,0,1947-11-23
+Zimmerman,Kristina,1994-01-01,74,Agricultural consultant,0,70,157,5.7,intermediate,5.3,3.6,1,0.4,0,1994-01-01
+Key,Jennifer,1995-12-13,63,"Engineer, energy",0,70,151,5.7,intermediate,5.6,3.5,2,0.10000000000000099,0,1995-12-13
+King,Christine,1983-07-27,35,Community pharmacist,0,78,151,5.9,intermediate,5.6,3.8,4,0.30000000000000104,1,1983-07-27
+Rodriguez,Mary,2001-07-07,32,Music tutor,0,74,168,5.9,intermediate,5.6,3.4,4,0.30000000000000104,0,2001-07-07
+Fuller,Austin,1965-02-17,46,Trading standards officer,0,75,165,6.0,intermediate,5.9,4.0,5,0.1,0,1965-02-17
+Ramos,Lauren,1970-09-21,73,Statistician,0,77,160,6.0,intermediate,5.8,3.7,2,0.2,1,1970-09-21
+Huffman,James,1941-05-05,51,Manufacturing systems engineer,0,75,157,6.0,intermediate,5.8,3.9,4,0.2,0,1941-05-05
+Rivera,Kelly,1939-07-05,77,Call centre manager,0,78,170,6.0,intermediate,5.9,3.2,4,0.1,1,1939-07-05
+Torres,Charles,1998-10-17,45,Control and instrumentation engineer,0,73,146,6.1,intermediate,5.5,3.1,2,0.6,0,1998-10-17
+Rice,Todd,1951-04-02,37,Medical sales representative,2,75,165,6.2,intermediate,5.9,3.5,2,0.3,0,1951-04-02
+Fischer,Ashley,1968-01-16,57,Trade union research officer,0,78,164,6.2,intermediate,5.9,4.0,1,0.3,1,1968-01-16
+Raymond,Craig,1945-03-18,40,"Engineer, energy",0,73,162,6.2,intermediate,5.9,3.2,2,0.3,0,1945-03-18
+Avila,Gregory,1956-09-30,38,Trade mark attorney,0,78,168,6.3,intermediate,6.2,3.9,3,0.1,1,1956-09-30
+Gonzalez,Matthew,1965-01-31,48,Publishing copy,0,75,169,6.3,intermediate,6.0,3.9,2,0.3,0,1965-01-31
+Sweeney,Vicki,1997-12-08,62,Mental health nurse,0,79,163,6.3,intermediate,6.0,3.8,4,0.3,0,1997-12-08
+Garcia,Charles,1983-10-16,42,Music tutor,2,80,165,6.4,intermediate,6.0,3.5,1,0.4,1,1983-10-16
+Hammond,Shannon,1939-05-18,59,Maintenance engineer,0,81,174,6.4,intermediate,6.0,3.9,2,0.4,1,1939-05-18
+Cabrera,Tina,1983-08-22,71,Translator,0,82,180,6.6,intermediate,6.2,3.6,2,0.4,1,1983-08-22
+Perez,Patrick,1982-05-07,58,Volunteer coordinator,0,82,159,6.7,intermediate,6.3,4.1,4,0.4,1,1982-05-07
+Davis,Molly,1996-06-24,68,Secretary/administrator,0,78,176,6.7,intermediate,6.3,3.6,1,0.4,0,1996-06-24
+Williams,Jonathan,1982-08-12,62,Museum/gallery conservator,0,78,160,6.8,intermediate,6.7,4.4,4,0.1,0,1982-08-12
+Johnson,Bonnie,1959-08-09,44,Biomedical scientist,0,78,158,6.9,intermediate,6.7,4.0,1,0.2,0,1959-08-09
+Lawson,Barbara,1969-03-08,51,Medical illustrator,2,78,159,7.0,intermediate,6.6,4.2,5,0.4,0,1969-03-08
+Hanna,Natalie,1992-05-14,70,Geophysicist/field seismologist,2,83,181,7.0,intermediate,7.0,4.3,4,0.0,1,1992-05-14
+Schneider,Renee,1948-09-24,34,Corporate treasurer,0,83,170,7.0,intermediate,6.7,4.1,2,0.3,1,1948-09-24
+Gordon,Victoria,1956-08-05,33,"Pharmacist, community",0,83,165,7.0,intermediate,6.7,4.2,2,0.3,1,1956-08-05
+Burch,Diana,1984-06-22,58,Corporate treasurer,0,83,174,7.0,intermediate,6.7,3.7,2,0.3,1,1984-06-22
+Black,Michael,1973-03-18,37,Fish farm manager,0,85,178,7.1,intermediate,6.9,3.9,4,0.19999999999999898,1,1973-03-18
+Levine,Kevin,1947-02-03,65,Immunologist,0,79,167,7.2,intermediate,7.1,4.5,4,0.10000000000000099,0,1947-02-03
+Kelly,Laura,1959-05-28,56,Dancer,0,79,173,7.2,intermediate,7.3,4.4,1,-0.1,0,1959-05-28
+Pruitt,Stephanie,1996-01-09,70,Heritage manager,0,85,186,7.3,intermediate,7.0,3.8,3,0.3,1,1996-01-09
+Evans,Douglas,1948-07-15,74,Dancer,0,83,166,7.3,intermediate,7.1,4.4,1,0.2,0,1948-07-15
+Brown,Andre,1949-02-18,42,Legal executive,0,84,187,7.3,intermediate,6.9,4.3,5,0.4,1,1949-02-18
+Perkins,Cindy,1963-03-23,43,Energy engineer,1,85,175,7.4,intermediate,7.1,4.2,3,0.30000000000000104,1,1963-03-23
+Grimes,Jason,1989-01-27,68,Musician,1,84,179,7.4,intermediate,7.1,3.7,3,0.30000000000000104,1,1989-01-27
+Stark,Maureen,1972-02-28,75,Contractor,1,78,153,7.4,intermediate,7.2,4.1,2,0.2,0,1972-02-28
+Diaz,Curtis,1961-11-01,38,Careers information officer,2,81,157,7.4,intermediate,6.9,4.2,1,0.5,0,1961-11-01
+Henry,Christopher,1958-09-23,56,Careers adviser,1,85,170,7.5,intermediate,7.0,3.9,5,0.5,1,1958-09-23
+Clarke,April,1948-06-08,59,Oncologist,1,85,181,7.5,intermediate,7.3,4.4,2,0.2,0,1948-06-08
+Sanders,Carrie,1971-03-14,76,Video editor,1,85,173,7.5,intermediate,7.4,4.4,2,0.1,1,1971-03-14
+Taylor,Jeremiah,1973-06-30,50,Engineering geologist,1,24,52,7.6,intermediate,7.3,4.1,2,0.3,0,1973-06-30
+Strong,Laurie,1942-06-27,74,"Surveyor, building control",2,85,168,7.6,intermediate,7.1,4.4,5,0.5,1,1942-06-27
+Best,Nichole,1954-10-31,56,Careers information officer,1,82,175,7.6,intermediate,7.4,3.9,5,0.19999999999999898,0,1954-10-31
+Wagner,Jeremy,1938-12-10,73,Cytogeneticist,1,104,205,7.7,intermediate,7.6,4.3,3,0.10000000000000099,1,1938-12-10
+Hamilton,Tammy,1994-02-20,44,"Journalist, magazine",1,87,193,7.7,intermediate,7.3,4.6,1,0.4,1,1994-02-20
+Shields,Kevin,1982-04-19,56,Accommodation manager,2,86,190,7.7,intermediate,7.3,4.0,4,0.4,1,1982-04-19
+Kelly,Jennifer,1970-11-05,68,Public house manager,1,85,189,7.7,intermediate,7.7,4.7,5,0.0,0,1970-11-05
+Lewis,Greg,1978-01-28,60,Production manager,1,86,191,7.8,intermediate,7.3,4.3,3,0.5,0,1978-01-28
+Campbell,Matthew,1970-09-11,62,Bonds trader,1,86,185,7.8,intermediate,7.7,4.3,3,0.1,1,1970-09-11
+Stone,Jane,1984-03-13,65,Electrical engineer,2,82,159,7.8,intermediate,7.4,4.8,4,0.4,1,1984-03-13
+Clark,Angela,1950-04-30,46,Media buyer,1,86,173,7.8,intermediate,7.3,4.4,2,0.5,1,1950-04-30
+Rhodes,Lisa,1989-05-03,57,English as a foreign language teacher,1,86,179,7.8,intermediate,7.3,4.7,4,0.5,1,1989-05-03
+Anderson,Andrea,1974-04-08,75,Horticultural consultant,1,85,183,7.9,intermediate,7.7,4.2,4,0.2,0,1974-04-08
+Luna,Christopher,1992-11-22,57,"Accountant, chartered certified",2,87,187,7.9,intermediate,7.7,4.9,1,0.2,1,1992-11-22
+Evans,Linda,1962-12-25,42,Archivist,1,86,167,7.9,intermediate,7.8,4.5,4,0.10000000000000099,1,1962-12-25
+Thompson,Margaret,1985-05-29,45,"Development worker, international aid",1,86,174,7.9,intermediate,7.7,4.2,3,0.2,1,1985-05-29
+Burton,Erin,1942-10-06,73,Biomedical scientist,1,86,179,7.9,intermediate,7.8,4.8,1,0.10000000000000099,1,1942-10-06
+Wood,Jodi,1946-11-29,56,Animal technologist,0,87,173,8.0,intermediate,7.7,4.0,5,0.3,1,1946-11-29
+Long,Angela,1976-06-07,63,"Engineer, civil (contracting)",2,80,158,8.0,intermediate,8.0,4.6,4,0.0,0,1976-06-07
+Williams,Bob,1991-03-10,57,Commercial/residential surveyor,1,82,167,8.1,intermediate,7.8,4.1,2,0.3,1,1991-03-10
+Ashley,Elizabeth,1949-11-23,69,Newspaper journalist,1,87,187,8.1,intermediate,7.5,4.3,2,0.6,1,1949-11-23
+Reyes,April,1948-10-21,57,"Engineer, electronics",1,87,193,8.1,intermediate,7.9,4.1,5,0.19999999999999898,1,1948-10-21
+Kelley,Monica,1981-04-07,70,Police officer,1,87,176,8.1,intermediate,8.0,4.3,1,0.1,1,1981-04-07
+Neal,Shannon,1973-12-28,73,"Administrator, sports",2,88,194,8.1,intermediate,8.0,4.7,1,0.1,1,1973-12-28
+Smith,Adam,1941-07-21,56,"Journalist, broadcasting",1,88,183,8.1,intermediate,8.0,4.7,1,0.1,1,1941-07-21
+Torres,Connor,1988-01-06,44,Radiation protection practitioner,1,87,190,8.2,intermediate,8.2,4.9,5,0.0,1,1988-01-06
+Johnson,Brandy,1978-04-13,55,Private music teacher,1,88,196,8.2,intermediate,8.1,4.4,4,0.1,1,1978-04-13
+King,Heather,1940-08-01,71,Adult guidance worker,1,88,178,8.2,intermediate,7.8,4.9,5,0.4,1,1940-08-01
+Boyer,Angela,1977-06-11,59,Dancer,1,88,174,8.2,intermediate,8.0,5.0,2,0.19999999999999898,1,1977-06-11
+Smith,Kathryn,1963-08-07,47,"Scientist, marine",2,88,192,8.2,intermediate,7.9,4.2,5,0.29999999999999893,1,1963-08-07
+Aguilar,Mary,1952-01-09,64,Furniture designer,0,88,182,8.3,intermediate,8.2,5.1,2,0.10000000000000099,0,1952-01-09
+Barnett,Mary,1993-10-21,35,Operational investment banker,1,88,179,8.3,intermediate,8.1,4.9,3,0.200000000000001,1,1993-10-21
+Goodwin,Kathleen,1938-05-14,76,Therapeutic radiographer,1,86,182,8.3,intermediate,8.1,4.9,2,0.200000000000001,0,1938-05-14
+Hoover,Debra,1971-07-16,76,Building control surveyor,1,88,195,8.3,intermediate,8.2,5.0,4,0.10000000000000099,1,1971-07-16
+Gaines,Heidi,1974-06-26,66,Occupational therapist,1,89,198,8.4,intermediate,8.3,4.5,4,0.1,1,1974-06-26
+Vance,Nicole,1990-07-17,45,Personnel officer,1,87,193,8.4,intermediate,8.2,5.0,2,0.200000000000001,0,1990-07-17
+Love,Alejandro,1957-05-03,37,Fashion designer,2,85,167,8.4,intermediate,8.3,4.5,2,0.1,0,1957-05-03
+Richardson,Michael,2001-08-15,59,Hydrographic surveyor,1,88,184,8.5,intermediate,8.5,4.3,5,0.0,1,2001-08-15
+Bautista,Jonathan,1938-06-28,66,Landscape architect,1,89,198,8.5,intermediate,8.1,4.8,1,0.4,0,1938-06-28
+Wilson,Steven,1947-02-17,57,"Surveyor, planning and development",1,89,194,8.6,intermediate,8.3,5.3,1,0.29999999999999893,1,1947-02-17
+White,Paula,1979-03-04,76,"Engineer, control and instrumentation",0,89,187,8.6,intermediate,8.2,4.6,5,0.4,1,1979-03-04
+Shelton,Deborah,1934-11-10,52,"Designer, textile",1,90,179,8.6,intermediate,8.6,4.7,3,0.0,0,1934-11-10
+Rojas,James,1965-11-02,42,"Solicitor, Scotland",1,44,98,8.7,intermediate,8.3,5.0,1,0.39999999999999897,0,1965-11-02
+Blankenship,Leah,1938-09-22,64,Dramatherapist,0,90,176,8.7,intermediate,8.5,5.3,3,0.19999999999999898,1,1938-09-22
+Wilson,Angela,1988-05-19,67,Building control surveyor,1,90,190,8.8,intermediate,8.5,4.5,4,0.30000000000000104,1,1988-05-19
+Wright,James,1997-09-20,65,Advertising account executive,1,87,193,8.8,intermediate,8.5,5.3,3,0.30000000000000104,0,1997-09-20
+Sawyer,Heather,1946-01-12,70,Sport and exercise psychologist,1,89,179,9.0,intermediate,8.8,5.2,3,0.19999999999999898,0,1946-01-12
+Morris,Kristie,1994-01-16,47,Senior tax professional/tax inspector,1,91,185,9.0,intermediate,8.6,4.6,4,0.4,1,1994-01-16
+Chavez,Joan,1999-10-07,43,Energy manager,0,93,182,9.1,intermediate,8.8,5.0,2,0.29999999999999893,0,1999-10-07
+Miller,Patricia,1972-11-15,56,"Psychologist, educational",1,92,198,9.3,intermediate,9.0,4.9,5,0.30000000000000104,1,1972-11-15
+Mcguire,Rachel,1970-12-23,64,Medical sales representative,1,92,203,9.3,intermediate,8.9,5.1,4,0.4,0,1970-12-23
+Wilson,Angela,1983-08-24,67,"Designer, television/film set",1,92,202,9.3,intermediate,9.0,5.0,5,0.30000000000000104,1,1983-08-24
+Stevens,Carrie,1985-12-11,74,Ergonomist,1,95,192,9.6,intermediate,9.4,5.3,2,0.19999999999999898,0,1985-12-11
+Rodriguez,Eric,2001-08-14,63,"Geneticist, molecular",0,95,191,9.7,intermediate,9.5,5.2,4,0.19999999999999898,0,2001-08-14
+Silva,Jeffery,1973-11-25,72,Bookseller,1,94,203,9.9,intermediate,9.6,5.4,1,0.30000000000000104,0,1973-11-25
+Curtis,John,1936-11-25,68,"Sales professional, IT",1,96,201,10.1,high,10.0,5.1,5,0.1,0,1936-11-25
+Tanner,Jessica,1986-07-01,56,Paramedic,1,93,183,10.1,high,10.0,5.3,5,0.1,0,1986-07-01
+Smith,Charles,1959-01-30,63,Chartered certified accountant,0,99,212,10.1,high,9.7,5.6,4,0.4,0,1959-01-30
+Porter,Barry,1979-05-30,67,Dancer,1,98,200,10.1,high,10.0,5.3,3,0.1,0,1979-05-30
+Barrett,Julie,1972-07-27,68,Theme park manager,1,102,208,11.1,high,10.7,5.7,2,0.4,1,1972-07-27
