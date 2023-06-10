@@ -1,0 +1,152 @@
+Plotly
+
+
+https://dash-gallery.plotly.host/Portal/
+
+https://plotly.com/building-machine-learning-web-apps-in-python/
+
+https://plotly.com/python/statistical-charts/
+
+https://dash.plotly.com/dash-core-components
+
+https://pypi.org/project/requests/
+
+
+>> https://docs.google.com/document/d/1TfB48iJcCAPaQYiOgB70_QgBXyGaU33nYyUZ6lgtLl8/edit
+
+
+
+import pandas as pd
+import numpy as np
+import plotly.offline as pyo
+import plotly.graph_objs as go
+import plotly.figure_factory as ff
+
+
+
+np.random.seed(56)
+
+
+x_val = np.linspace(0,1,100)
+y_val = np.random.randn(100)
+
+
+
+trace0 = go.Scatter(x= x_val, 
+                   y= y_val+5, # 5 to have plot above other plots
+                   mode='markers',
+                   name='markers')
+
+trace1 = go.Scatter(x= x_val, 
+                   y= y_val,
+                   mode='lines',
+                   name='data_Lines')
+
+trace2 = go.Scatter(x= x_val, 
+                   y= y_val-5, # need -5 to move plot down
+                   mode='lines+markers',
+                   name='line_markers' )
+
+
+data = [trace0, trace1,trace2]
+
+layout = go.Layout(title='Line Chart', xaxis={'title':'X axis'},    
+                 yaxis= dict(title='Y axis'))
+
+fig = go.Figure(data=data, layout=layout)
+
+pyo.plot(fig, filename='LineChart.html')
+
+
+
+
+
+
+
+
+
+
+
+import dash
+import dash_core_components as dcc
+import dash_html_components as html
+from dash.dependencies import Input, Output
+import plotly.graph_objs as go
+import numpy as np
+
+
+app = dash.Dash()
+
+
+# create data
+np.random.seed(42)
+random_x = np.random.randint(1,101,100)
+random_y = np.random.randint(1,101,100)
+
+
+app.layout = html.Div(
+    [
+    dcc.Graph(
+        id='scatterplot', 
+        figure={'data':
+                [go.Scatter(
+                x=random_x, y=random_y,
+                mode='markers',
+                marker= {
+                    'size':13,
+                    'color':'#800060',
+                    'symbol':'circle',
+                    'line':{'width':2}
+                })],
+               'layout': go.Layout(title='my scatterplot',
+                                  xaxis= {'title':''}
+                                  )
+               } 
+        ),
+    ])
+
+if __name__ =='__main__':
+    app.run_server()
+
+
+
+
+
+
+
+app.layout = html.Div(
+    [
+    	html.P(),
+        html.Label('Dropdown'),
+        dcc.Dropdown(
+            options=[ 
+                {'label': 'New York City', 'value':'NYC'},
+                {'label': 'San Francisco', 'value':'SF'},
+                {'label': 'Montreal', 'value':'Mont'},
+                {'label': 'Vancouver', 'value':'Van'},
+            ],
+            value= 'SF'),
+        
+        html.P(),
+        html.Label('Slider'),
+        dcc.Slider(min= -10, max=10, step=0.5, value=0,
+                  marks= {i: i for i in range(-10,10)})
+    ])
+
+
+
+
+markdown_text = 'kahhalshlscjhakjhkjdh'
+
+inside >>> app.layout = html.Div([
+	dcc.Markdown(children= markdown_text )])
+
+
+
+# get help 
+import dash_html_components as html
+print(help(html.Div))
+
+
+
+
