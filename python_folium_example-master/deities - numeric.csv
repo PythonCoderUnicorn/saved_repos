@@ -1,0 +1,483 @@
+deity_name,deity_of,secondary,tertiary,region_origin
+Bugid Y Aiba,1.00,0.00,0.00,haiti
+Ogoun,1.00,0.00,0.00,haiti
+Ometeotl ,5.00,0.00,0.00,"Central, S America"
+Ehecatl,2.00,0.00,0.00,"Central, S America"
+huitzilopochtli,1.00,0.00,0.00,"Central, S America"
+Mixcoatl,6.00,0.00,0.00,"Central, S America"
+Quetzalcoatl,2.00,13.00,7.00,"Central, S America"
+Tezcatlipoca,7.00,0.00,0.00,"Central, S America"
+Tlaloc,13.00,3.00,11.00,"Central, S America"
+Xipe Totec,1.00,18.00,20.00,"Central, S America"
+Xiuhtecuhtli,14.00,0.00,0.00,"Central, S America"
+Xochiquetzal,5.00,15.00,28.00,"Central, S America"
+Mictlantecuhtli,4.00,0.00,0.00,"Central, S America"
+Buluc Chabtan,1.00,0.00,0.00,"Mayan, Mexico"
+Chaac ,13.00,0.00,0.00,"Mayan, Mexico"
+Ekchuah ,1.00,0.00,0.00,"Mayan, Mexico"
+Ixchel,16.00,1.00,0.00,"Mayan, Mexico"
+Itzel,10.00,15.00,17.00,"Mayan, Mexico"
+Ixtab,28.00,0.00,0.00,"Mayan, Mexico"
+Ah Puch ,25.00,0.00,0.00,"Mayan, Mexico"
+K'awiil,3.00,0.00,0.00,"Mayan, Mexico"
+Nacon,1.00,0.00,0.00,"Mayan, Mexico"
+Q'uq'umatz,24.00,7.00,0.00,"Mayan, Mexico"
+Tohil,13.00,7.00,14.00,"Mayan, Mexico"
+Yopaat,3.00,0.00,0.00,"Mayan, Mexico"
+Elves,28.00,0.00,0.00,Europe: Anglo-Saxon
+Eostre,28.00,0.00,0.00,Europe: Anglo-Saxon
+Frigg,12.00,0.00,0.00,Europe: Anglo-Saxon
+hretha,28.00,0.00,0.00,Europe: Anglo-Saxon
+Saxnot,28.00,0.00,0.00,Europe: Anglo-Saxon
+Shef,18.00,0.00,0.00,Europe: Anglo-Saxon
+Thunor,3.00,0.00,0.00,Europe: Anglo-Saxon
+Tir,1.00,0.00,0.00,Europe: Anglo-Saxon
+"Weyl,",28.00,0.00,0.00,Europe: Anglo-Saxon
+Woden ,8.00,9.00,0.00,Europe: Anglo-Saxon
+Aramazd,7.00,12.00,0.00,Armenian
+Mihr ,10.00,0.00,0.00,Armenian
+Anahit ,5.00,8.00,10.00,Armenian
+Aray ,1.00,0.00,0.00,Armenian
+Astghik ,10.00,15.00,11.00,Armenian
+Nane ,1.00,0.00,0.00,Armenian
+Tir ,19.00,28.00,0.00,Armenian
+Tsovinar ,11.00,13.00,0.00,Armenian
+Vahagn ,1.00,3.00,0.00,Armenian
+Aeracura  ,12.00,0.00,0.00,Celtic
+Aine ,7.00,0.00,0.00,Celtic
+Ambisagrus  ,3.00,0.00,0.00,Celtic
+Anann ,1.00,25.00,5.00,Celtic
+",arta ",5.00,0.00,0.00,Celtic
+Angus Og ,10.00,15.00,0.00,Celtic
+Anu ,28.00,0.00,0.00,Celtic
+Arianrhod ,12.00,17.00,0.00,Celtic
+Arawn ,4.00,1.00,0.00,Celtic
+Arito ,28.00,0.00,0.00,Celtic
+Aoibhell ,28.00,0.00,0.00,Celtic
+Badb,25.00,1.00,0.00,Celtic
+"B,ua ",1.00,0.00,0.00,Celtic
+Belatucadros ,1.00,0.00,0.00,Celtic
+Black Annis ,28.00,0.00,0.00,Celtic
+Blodeuwedd ,10.00,28.00,0.00,Celtic
+Boann ,11.00,0.00,0.00,Celtic
+Brigid ,5.00,8.00,0.00,Celtic
+Bran ,8.00,0.00,0.00,Celtic
+Branwen ,10.00,15.00,0.00,Celtic
+Bris ,5.00,18.00,0.00,Celtic
+Caer ,19.00,0.00,0.00,Celtic
+Cailleach ,10.00,20.00,0.00,Celtic
+Camulus ,1.00,0.00,0.00,Celtic
+Caswallawn ,1.00,0.00,0.00,Celtic
+Catubodua ,28.00,0.00,0.00,Celtic
+Ceridwen ,16.00,9.00,17.00,Celtic
+Cicolluis ,1.00,0.00,0.00,Celtic
+Creidhne ,28.00,0.00,0.00,Celtic
+Creiddylad ,10.00,0.00,0.00,Celtic
+Cyhiraeth ,11.00,25.00,0.00,Celtic
+Cernunnos ,5.00,22.00,4.00,Celtic
+Cocidius ,1.00,6.00,22.00,Celtic
+Danu ,12.00,0.00,0.00,Celtic
+ Dagda ,12.00,0.00,0.00,Celtic
+Diancecht,8.00,0.00,0.00,Celtic
+Druantia ,5.00,22.00,28.00,Celtic
+Dylan ,11.00,0.00,0.00,Celtic
+Don ,28.00,12.00,11.00,Celtic
+Dis Pater ,25.00,4.00,0.00,Celtic
+Epona ,21.00,0.00,0.00,Celtic
+Eostre ,28.00,0.00,0.00,Celtic
+Flidais ,22.00,28.00,0.00,Celtic
+Greine,28.00,0.00,0.00,Celtic
+Goibhniu ,28.00,0.00,0.00,Celtic
+Gwydion ,9.00,0.00,0.00,Celtic
+Gwynn Ap Nudd,4.00,0.00,0.00,Celtic
+Leucetius ,3.00,0.00,0.00,Celtic
+Labraid ,4.00,0.00,0.00,Celtic
+Llew Llaw Gyffes ,8.00,11.00,0.00,Celtic
+Llyr ,11.00,0.00,0.00,Celtic
+Liban ,11.00,0.00,0.00,Celtic
+Lugh ,28.00,0.00,0.00,Celtic
+Manannan Mac Lir ,11.00,0.00,0.00,Celtic
+Maeve ,12.00,5.00,1.00,Celtic
+Manannan Mac Lir ,11.00,0.00,0.00,Celtic
+Math Mathonwy ,9.00,0.00,0.00,Celtic
+Mider ,4.00,0.00,0.00,Celtic
+Myrrdin ,9.00,0.00,0.00,Celtic
+Morrigan ,25.00,5.00,17.00,Celtic
+Macha ,1.00,21.00,0.00,Celtic
+Nemain ,1.00,0.00,0.00,Celtic
+Anu,12.00,0.00,0.00,Celtic
+Badb ,1.00,25.00,26.00,Celtic
+Nantosuelta ,11.00,0.00,0.00,Celtic
+Nemain ,1.00,0.00,0.00,Celtic
+Niamh ,15.00,0.00,0.00,Celtic
+Nostiluca ,28.00,0.00,0.00,Celtic
+Nuada ,6.00,11.00,0.00,Celtic
+Olwen ,10.00,26.00,0.00,Celtic
+Scathach ,8.00,9.00,0.00,Celtic
+Rhiannon ,21.00,17.00,25.00,Celtic
+Rosmerta ,5.00,0.00,0.00,Celtic
+Rudianos ,1.00,0.00,0.00,Celtic
+Segomo ,1.00,0.00,0.00,Celtic
+Sequana ,11.00,8.00,0.00,Celtic
+Sucellus ,18.00,22.00,0.00,Celtic
+Sul ,7.00,0.00,0.00,Celtic
+Taranis ,3.00,0.00,0.00,Celtic
+Taranus ,3.00,0.00,0.00,Celtic
+Teutates ,1.00,5.00,27.00,Celtic
+ White Lady  ,25.00,0.00,0.00,Celtic
+Ahti ,11.00,0.00,0.00,Finnish
+Akka ,26.00,0.00,0.00,Finnish
+Ilmarinen ,26.00,0.00,0.00,Finnish
+Loviatar ,20.00,0.00,0.00,Finnish
+Mielikki ,22.00,6.00,0.00,Finnish
+Tuoni ,4.00,0.00,0.00,Finnish
+Ukko ,7.00,3.00,0.00,Finnish
+Vellamo ,11.00,0.00,0.00,Finnish
+Väinämöinen ,9.00,0.00,0.00,Finnish
+holda ,5.00,0.00,0.00,German/Dutch
+Nehalennia ,11.00,5.00,0.00,German/Dutch
+Nerthus ,12.00,0.00,0.00,German/Dutch
+"Acheron , Alpheus, Cocytus, Eridanos, Le, Phlegethon, Styx ",11.00,4.00,0.00,Greek
+Achlys,28.00,0.00,0.00,Greek
+Aer ,7.00,0.00,0.00,Greek
+Alastor ,28.00,0.00,0.00,Greek
+ Algea ,28.00,0.00,0.00,Greek
+Aphrodite,15.00,0.00,0.00,Greek
+Apollo,28.00,7.00,0.00,Greek
+Ares ,1.00,0.00,0.00,Greek
+Artemis ,6.00,7.00,0.00,Greek
+Asclepius,8.00,0.00,0.00,Greek
+Asteria ,19.00,7.00,0.00,Greek
+Ate,28.00,0.00,0.00,Greek
+Ana ,10.00,1.00,0.00,Greek
+Despoina ,21.00,0.00,0.00,Greek
+Demeter,18.00,0.00,0.00,Greek
+Dionysus,23.00,0.00,0.00,Greek
+Eris,28.00,0.00,0.00,Greek
+Enyalius ,1.00,0.00,0.00,Greek
+Enyo ,1.00,0.00,0.00,Greek
+Eos ,7.00,0.00,0.00,Greek
+Eros ,28.00,0.00,0.00,Greek
+Gaia ,12.00,0.00,0.00,Greek
+Geras,28.00,0.00,0.00,Greek
+hades,4.00,0.00,0.00,Greek
+hecate ,28.00,0.00,0.00,Greek
+helios ,7.00,0.00,0.00,Greek
+hephaestus ,14.00,0.00,0.00,Greek
+hera  ,28.00,0.00,0.00,Greek
+hermes ,28.00,0.00,0.00,Greek
+hestia,12.00,0.00,0.00,Greek
+horme ,28.00,0.00,0.00,Greek
+hybris ,28.00,0.00,0.00,Greek
+hypnos ,19.00,0.00,0.00,Greek
+Iapetus,4.00,0.00,0.00,Greek
+Ioke ,28.00,0.00,0.00,Greek
+Iris ,13.00,0.00,0.00,Greek
+Keres ,25.00,0.00,0.00,Greek
+Limos ,28.00,0.00,0.00,Greek
+Macaria,25.00,0.00,0.00,Greek
+Melinoe ,28.00,0.00,0.00,Greek
+Moirai ,28.00,0.00,0.00,Greek
+Momos ,28.00,0.00,0.00,Greek
+Moros ,28.00,0.00,0.00,Greek
+Nemesis ,28.00,0.00,0.00,Greek
+Nike ,28.00,0.00,0.00,Greek
+Oizys ,28.00,0.00,0.00,Greek
+Palioxis ,28.00,0.00,0.00,Greek
+Pallas  ,1.00,0.00,0.00,Greek
+Pan ,28.00,0.00,0.00,Greek
+Persephone ,4.00,0.00,0.00,Greek
+Phobos ,28.00,0.00,0.00,Greek
+Phonoi ,25.00,0.00,0.00,Greek
+Phrike,28.00,0.00,0.00,Greek
+Polemos ,1.00,0.00,0.00,Greek
+Poseidon ,11.00,0.00,0.00,Greek
+Selene ,17.00,0.00,0.00,Greek
+Thanatos,25.00,0.00,0.00,Greek
+Thyche,28.00,0.00,0.00,Greek
+Uranus ,7.00,0.00,0.00,Greek
+Zeus ,7.00,12.00,0.00,Greek
+Morpheus ,19.00,0.00,0.00,Greek
+Balder,15.00,0.00,0.00,Norse
+Beyla ,28.00,0.00,0.00,Norse
+Bil ,17.00,0.00,0.00,Norse
+Bragi ,28.00,0.00,0.00,Norse
+Byggvir ,18.00,0.00,0.00,Norse
+Dagr ,28.00,0.00,0.00,Norse
+Disir ,28.00,0.00,0.00,Norse
+Eir ,8.00,0.00,0.00,Norse
+Fenrir ,25.00,0.00,0.00,Norse
+Forseti ,28.00,0.00,0.00,Norse
+Freyja / Freya ,10.00,9.00,0.00,Norse
+Freyr ,5.00,10.00,0.00,Norse
+Frigga ,10.00,0.00,0.00,Norse
+hel ,4.00,0.00,0.00,Norse
+hoenir,10.00,0.00,0.00,Norse
+Idunn ,28.00,0.00,0.00,Norse
+Irpa ,3.00,0.00,0.00,Norse
+Jord ,12.00,0.00,0.00,Norse
+Loki,28.00,0.00,0.00,Norse
+Mani ,17.00,0.00,0.00,Norse
+Njord,27.00,0.00,0.00,Norse
+Norns ,28.00,0.00,0.00,Norse
+Nott ,28.00,0.00,0.00,Norse
+Odin,6.00,9.00,10.00,Norse
+Ran ,28.00,0.00,0.00,Norse
+Saga ,10.00,0.00,0.00,Norse
+Sif ,28.00,0.00,0.00,Norse
+Sin ,10.00,0.00,0.00,Norse
+Skadi ,28.00,0.00,0.00,Norse
+Snotra ,10.00,0.00,0.00,Norse
+Sol ,7.00,0.00,0.00,Norse
+Syn ,28.00,0.00,0.00,Norse
+Thor ,3.00,0.00,0.00,Norse
+Thorgerd ,3.00,0.00,0.00,Norse
+Tyr ,1.00,0.00,0.00,Norse
+Ull ,6.00,1.00,0.00,Norse
+Vali ,28.00,0.00,0.00,Norse
+Var ,28.00,0.00,0.00,Norse
+Vidar ,28.00,0.00,0.00,Norse
+Vor ,10.00,0.00,0.00,Norse
+Apollo ,7.00,0.00,0.00,Roman
+Bellona ,1.00,0.00,0.00,Roman
+Bacchus ,23.00,0.00,0.00,Roman
+Caelus ,28.00,0.00,0.00,Roman
+Cardea ,8.00,0.00,0.00,Roman
+Ceres ,18.00,0.00,0.00,Roman
+Cupid ,10.00,0.00,0.00,Roman
+Diana ,6.00,0.00,0.00,Roman
+Fulgora ,3.00,0.00,0.00,Roman
+honos,28.00,0.00,0.00,Roman
+Janus ,26.00,0.00,0.00,Roman
+Juno ,28.00,0.00,0.00,Roman
+Jupiter ,7.00,0.00,0.00,Roman
+Maia ,28.00,0.00,0.00,Roman
+Mars ,1.00,0.00,0.00,Roman
+Mercury ,28.00,0.00,0.00,Roman
+Minerva ,10.00,0.00,0.00,Roman
+Neptune ,11.00,0.00,0.00,Roman
+Nerio ,1.00,0.00,0.00,Roman
+Pluto ,4.00,0.00,0.00,Roman
+Plutus ,27.00,0.00,0.00,Roman
+Portunus ,28.00,0.00,0.00,Roman
+Proserpina ,4.00,0.00,0.00,Roman
+Tempestas ,3.00,0.00,0.00,Roman
+Terminus ,28.00,0.00,0.00,Roman
+Trivia ,9.00,0.00,0.00,Roman
+Venus ,15.00,0.00,0.00,Roman
+Vesta,28.00,0.00,0.00,Roman
+Victoria ,28.00,0.00,0.00,Roman
+Virtus ,28.00,0.00,0.00,Roman
+Vulcan ,28.00,0.00,0.00,Roman
+Abnoba ,22.00,11.00,0.00,Romano-Celtic
+",rasta ",1.00,0.00,0.00,Romano-Celtic
+Arduinna ,6.00,22.00,0.00,Romano-Celtic
+Arnemetia ,11.00,0.00,0.00,Romano-Celtic
+Aveta ,16.00,0.00,0.00,Romano-Celtic
+Sequana ,8.00,0.00,0.00,Romano-Celtic
+Sirona ,8.00,0.00,0.00,Romano-Celtic
+Suleviae ,17.00,0.00,0.00,Romano-Celtic
+Sulis ,8.00,25.00,0.00,Romano-Celtic
+Belobog ,7.00,0.00,0.00,Slavic
+Chernobog ,25.00,0.00,0.00,Slavic
+Indibog ,28.00,0.00,0.00,Slavic
+Jarovit ,1.00,0.00,0.00,Slavic
+Morana ,25.00,28.00,0.00,Slavic
+Perun ,3.00,0.00,0.00,Slavic
+Rugiviet ,1.00,0.00,0.00,Slavic
+Svantetit ,1.00,0.00,0.00,Slavic
+Svetovit ,1.00,0.00,0.00,Slavic
+Triglav ,1.00,0.00,0.00,Slavic
+Zroya ,1.00,0.00,0.00,Slavic
+Anhur,1.00,0.00,0.00,Egyptian
+Ankt ,1.00,0.00,0.00,Egyptian
+Anouke ,1.00,0.00,0.00,Egyptian
+Anubis,28.00,0.00,0.00,Egyptian
+Apep ,28.00,0.00,0.00,Egyptian
+Atum,24.00,0.00,0.00,Egyptian
+Bast,28.00,0.00,0.00,Egyptian
+Bes,16.00,0.00,0.00,Egyptian
+Geb,12.00,0.00,0.00,Egyptian
+hapi,5.00,0.00,0.00,Egyptian
+hathor,10.00,0.00,0.00,Egyptian
+heget ,16.00,0.00,0.00,Egyptian
+horus ,28.00,0.00,0.00,Egyptian
+Imhotep ,10.00,8.00,9.00,Egyptian
+Isis,9.00,0.00,0.00,Egyptian
+Khnum,24.00,0.00,0.00,Egyptian
+Khonsu,17.00,0.00,0.00,Egyptian
+Maahes ,1.00,0.00,0.00,Egyptian
+Ma'at,28.00,0.00,0.00,Egyptian
+Menhit ,1.00,0.00,0.00,Egyptian
+Mentu ,1.00,0.00,0.00,Egyptian
+Min,5.00,0.00,0.00,Egyptian
+Mont,1.00,0.00,0.00,Egyptian
+Naunet,11.00,0.00,0.00,Egyptian
+Neith,1.00,0.00,0.00,Egyptian
+Nut,28.00,7.00,0.00,Egyptian
+Osiris,25.00,0.00,0.00,Egyptian
+Pakhet ,1.00,0.00,0.00,Egyptian
+Ptah,24.00,0.00,0.00,Egyptian
+Ra,7.00,0.00,0.00,Egyptian
+Satis,6.00,5.00,0.00,Egyptian
+Sekhmnet,1.00,0.00,0.00,Egyptian
+Sopdu ,7.00,0.00,0.00,Egyptian
+Shu,2.00,12.00,0.00,Egyptian
+Taweret ,16.00,5.00,0.00,Egyptian
+Tefnut,28.00,0.00,0.00,Egyptian
+Thoth,17.00,10.00,8.00,Egyptian
+Wepwawet ,1.00,25.00,0.00,Egyptian
+Ch’ang’O (Ch’ang’E) ,17.00,28.00,0.00,Chinese
+Dian Wu,3.00,0.00,0.00,Chinese
+Du Kang ,23.00,0.00,0.00,Chinese
+Kuan Yin (Guan Yin) ,10.00,0.00,0.00,Chinese
+Feng Bo - (Taoist) ,2.00,0.00,0.00,Chinese
+Feng Po Po,2.00,0.00,0.00,Chinese
+han Zixian,2.00,0.00,0.00,Chinese
+Lei Gong ,3.00,0.00,0.00,Chinese
+Li Shi ,27.00,0.00,0.00,Chinese
+Wenchang Wang - (Taoist) ,10.00,0.00,0.00,Chinese
+Mazu,11.00,0.00,0.00,Chinese
+Meng Po ,28.00,0.00,0.00,Chinese
+Ne Zha ,28.00,0.00,0.00,Chinese
+Tsai Shen Yeh ,27.00,0.00,0.00,Chinese
+Wen Zhong ,3.00,0.00,0.00,Chinese
+Yunzhongzi ,7.00,0.00,0.00,Chinese
+Yu Shi ,13.00,0.00,0.00,Chinese
+Àganjù ,28.00,0.00,0.00,African
+Ajá (Aje) ,27.00,0.00,0.00,African
+Ayao ,2.00,3.00,0.00,African
+Eleguá ,28.00,0.00,0.00,African
+Èṣhù ,28.00,0.00,0.00,African
+hara Ké ,28.00,0.00,0.00,African
+Mémé ,8.00,0.00,0.00,African
+Obatálá ,28.00,0.00,0.00,African
+Obbá-Nani ,28.00,0.00,0.00,African
+Olódùmarè ,24.00,0.00,0.00,African
+Ogún,22.00,28.00,0.00,African
+Ochósi ,6.00,22.00,28.00,African
+Olókun ,11.00,27.00,8.00,African
+Orunmila ,10.00,28.00,0.00,African
+Oshún ,11.00,27.00,15.00,African
+Oyá ,2.00,3.00,0.00,African
+Yemáyá ,11.00,5.00,8.00,African
+Amaterasu ,7.00,0.00,0.00,Japan/Shinto
+Futsu-Nushi-no-Kami ,1.00,0.00,0.00,Japan/Shinto
+Fuujin ,2.00,0.00,0.00,Japan/Shinto
+hachiman ,1.00,0.00,0.00,Japan/Shinto
+Inari,28.00,0.00,0.00,Japan/Shinto
+Izanami,25.00,4.00,0.00,Japan/Shinto
+Raijin ,3.00,0.00,0.00,Japan/Shinto
+ Shichifukujin,28.00,0.00,0.00,Japan/Shinto
+Daikoku,27.00,0.00,0.00,Japan/Shinto
+Ebisu,28.00,0.00,0.00,Japan/Shinto
+Benzaiten,15.00,0.00,0.00,Japan/Shinto
+Bishamonten,1.00,0.00,0.00,Japan/Shinto
+Fukurokuju,27.00,0.00,0.00,Japan/Shinto
+Jurojin,28.00,0.00,0.00,Japan/Shinto
+hotei,8.00,0.00,0.00,Japan/Shinto
+Ejay,28.00,0.00,0.00,Japan/Shinto
+Susanoo,3.00,0.00,0.00,Japan/Shinto
+Tengu,28.00,0.00,0.00,Japan/Shinto
+Tsukiyomi,17.00,0.00,0.00,Japan/Shinto
+Beg-tse ,1.00,0.00,0.00,Tibetan 
+Brahma ,24.00,0.00,0.00,hindu
+Dyaus ,28.00,0.00,0.00,hindu
+Ganesha,28.00,0.00,0.00,hindu
+Indra ,1.00,0.00,0.00,hindu
+Kali ,25.00,0.00,0.00,hindu
+Karttikeya ,1.00,0.00,0.00,hindu
+Lakshmi ,27.00,0.00,0.00,hindu
+Mariamman,13.00,0.00,0.00,hindu
+Maruts,3.00,0.00,0.00,hindu
+Parvati ,5.00,10.00,15.00,hindu
+Saranyu ,7.00,0.00,0.00,hindu
+Saraswati,10.00,0.00,0.00,hindu
+Shiva,25.00,0.00,0.00,hindu
+Vayu ,2.00,0.00,0.00,hindu
+Vishnu ,28.00,0.00,0.00,hindu
+Krishna ,28.00,0.00,0.00,hindu
+Yama,28.00,0.00,0.00,hindu
+Ahura Mazda (Ormazd) ,10.00,0.00,0.00,Persian / Zoroastrianism
+Mitra/Mithra  ,28.00,0.00,0.00,Persian / Zoroastrianism
+Adad ,3.00,0.00,0.00,Mesopotamian
+Anshar ,28.00,0.00,0.00,Mesopotamian
+Anu ,28.00,0.00,0.00,Mesopotamian
+Apsu ,4.00,0.00,0.00,Mesopotamian
+Ara Tiotio ,3.00,0.00,0.00,Mesopotamian
+Ashtart ,1.00,0.00,0.00,Mesopotamian
+Ashur ,1.00,0.00,0.00,Mesopotamian
+Damkina ,12.00,0.00,0.00,Mesopotamian
+Ea,10.00,0.00,0.00,Mesopotamian
+Enki ,24.00,0.00,0.00,Mesopotamian
+Enlil ,3.00,0.00,0.00,Mesopotamian
+Ereshkigal ,4.00,0.00,0.00,Mesopotamian
+Erra,20.00,0.00,0.00,Mesopotamian
+Ninurta ,1.00,0.00,0.00,Mesopotamian
+hadad ,3.00,0.00,0.00,Mesopotamian
+Inanna,10.00,15.00,5.00,Mesopotamian
+Ishtar,10.00,0.00,0.00,Mesopotamian
+Jabru ,4.00,0.00,0.00,Mesopotamian
+Kishar ,12.00,0.00,0.00,Mesopotamian
+Marduk ,11.00,9.00,28.00,Mesopotamian
+Mummu ,28.00,0.00,0.00,Mesopotamian
+Nabu,28.00,0.00,0.00,Mesopotamian
+Namtar ,25.00,0.00,0.00,Mesopotamian
+Nanaja ,1.00,0.00,0.00,Mesopotamian
+Ninlil ,12.00,0.00,0.00,Mesopotamian
+Pap-nigin-gara ,1.00,0.00,0.00,Mesopotamian
+Sebitti,1.00,0.00,0.00,Mesopotamian
+Shamash ,7.00,0.00,0.00,Mesopotamian
+Shala ,1.00,18.00,0.00,Mesopotamian
+Shara ,1.00,0.00,0.00,Mesopotamian
+Shulmanu ,4.00,5.00,1.00,Mesopotamian
+Sin,17.00,0.00,0.00,Mesopotamian
+Tawhirimatea ,3.00,0.00,0.00,Mesopotamian
+Tiamat,11.00,0.00,0.00,Mesopotamian
+Zababa ,1.00,0.00,0.00,Mesopotamian
+El,28.00,0.00,0.00,Semitic 
+Yam  (Yawa),11.00,0.00,0.00,Semitic 
+Mot,25.00,4.00,0.00,Semitic 
+Anat ,10.00,1.00,0.00,Semitic 
+Yahweh (Jehovah/ Yahwah ),28.00,0.00,0.00,Abrahamic
+Jesus  Nazareth ,28.00,0.00,0.00,Abrahamic
+ holy spirit ,28.00,0.00,0.00,Abrahamic
+ Trinity ,28.00,0.00,0.00,Abrahamic
+"Birrahgnooloo, Kamilaroi",5.00,0.00,0.00,Australia
+"Altjira, Arrernte",12.00,0.00,0.00,Australia
+"Onur, Karraur ",17.00,0.00,0.00,Australia
+"Bamapana, Yolngu ",28.00,0.00,0.00,Australia
+Banaitja,24.00,0.00,0.00,Australia
+"Barnumbirr, Yolgnu ",24.00,0.00,0.00,Australia
+Barraiya,24.00,0.00,0.00,Australia
+Bobbi-Bobbi,28.00,0.00,0.00,Australia
+Djunkgao,11.00,0.00,0.00,Australia
+"Julunggul, Yolgnu",5.00,26.00,11.00,Australia
+Karora,24.00,0.00,0.00,Australia
+Malingee,28.00,0.00,0.00,Australia
+Mamaragan,3.00,0.00,0.00,Australia
+Mangar-kunjer-kunja ,24.00,0.00,0.00,Australia
+Namarrkon (Namarrgon),3.00,0.00,0.00,Australia
+"Mokoi,  Yolngu ",28.00,0.00,0.00,Australia
+Manuriki,15.00,0.00,0.00,Australia
+Papiniju1i,28.00,0.00,0.00,Australia
+Wala,7.00,0.00,0.00,Australia
+Wollunqua,13.00,5.00,0.00,Australia
+Wuluwaid,13.00,0.00,0.00,Australia
+Wuriupranili,7.00,0.00,0.00,Australia
+"Yhi, Karraur ",24.00,0.00,0.00,Australia
+Anjea,5.00,0.00,0.00,Australia
+"Dilga, Karadjeri ",5.00,0.00,0.00,Australia
+Julana,28.00,0.00,0.00,Australia
+Ungud,5.00,28.00,0.00,Australia
+"Wagyl, Noongar ",24.00,0.00,0.00,Australia
+"Wondjina, Mowanjum ",7.00,13.00,0.00,Australia
+Gnowee,7.00,0.00,0.00,Australia
+Pundjel,28.00,0.00,0.00,Australia
+Thinan-malkia,28.00,0.00,0.00,Australia
+Angus,10.00,0.00,0.00,Irish
+Endovelicus ,19.00,8.00,0.00,Lusitanian 
+Ataegina,8.00,17.00,26.00,Lusitanian 
+Runesocesius ,28.00,0.00,0.00,Lusitanian 
+haldi ,1.00,0.00,0.00,Urartian/ Turkey
+Arubani ,5.00,0.00,0.00,Urartian/ Turkey
