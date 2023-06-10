@@ -1,0 +1,386 @@
+
+
+
+https://towardsdatascience.com/learn-to-create-a-chatbot-in-5-minutes-googles-dialogflow-4064b4fa336a?source=social.tw
+
+
+
+
+squares=['1','1','1','4']
+new_sq =[]
+i=0
+while (squares[i] =='1'):
+   new_sq.append(squares[i])
+   i +=1
+
+
+%matplotlib inline > displays the plots INSIDE the notebook
+
+sns.plt.show() > displays the plots OUTSIDE of the notebook
+
+%matplotlib inline will OVERRIDE sns.plt.show() in the sense that plots will be shown IN the notebook even when sns.plt.show() is called.
+
+https://elitedatascience.com/python-seaborn-tutorial
+
+https://medium.com/analytics-vidhya/what-is-balance-and-imbalance-dataset-89e8d7f46bc5
+
+https://medium.com/@priteshbgohil/stacked-bar-chart-in-python-ddc0781f7d5f
+
+
+'''
+from bokeh.io import output_notebook
+from bokeh.resources import INLINE
+from bokeh import * 
+#from bokeh.io.output_notebook INLINE
+'''
+https://docs.bokeh.org/en/latest/docs/user_guide/plotting.html
+
+
+
+
+
+
+
+
+
+
+Module 8 - Project --
+
+build project called Data Science
+name notebook 
+share notebook
+
+
+In this project, you will complete a notebook where you will build a classifier to predict whether a loan case will be paid off or not
+You load a historical dataset from previous loan applications, clean the data, and apply different classification algorithm on the data. You are expected to use the following algorithms to build your models: k-Nearest Neighbour, Decision Tree, Support Vector Machine, Logistic Regression
+METRICS to use Jaccard, F1-score, Log Loss
+
+CRITERIA: 
+Building model using KNN, finding the best k and accuracy evaluation (7 marks)
+
+Building model using Decision Tree, finding the best k and accuracy evaluation (6 marks)
+
+Building model using SVM, finding the best k and accuracy evaluation (6 marks)
+
+Building model using Logistic Regression, finding the best k and accuracy evaluation (6 marks)
+
+
+from sklearn.metrics import f1_score
+f1_score(y_test, yhat, average='weighted') 
+
+	SVM_f1 = f1_score(y_test, yhat, average='weighted')
+	DecTree_f1 = f1_score(y_test, yhat, average='weighted')
+	KNN_f1 = f1_score(y_test, yhat, average='weighted') 
+	LogReg_f1 = f1_score(y_test, yhat, average='weighted') 
+
+from sklearn.metrics import jaccard_similarity_score
+jaccard_similarity_score(y_test, yhat)
+
+	KNN_jac = jaccard_similarity_score(y_test, yhat)
+	DecTree_jac = jaccard_similarity_score(y_test, yhat)
+	SVM_jac = jaccard_similarity_score(y_test, yhat)
+	LogReg_jac = jaccard_similarity_score(y_test, yhat)
+
+from sklearn.metrics import log_loss
+log_loss(y_test, yhat_prob)
+
+------------
+	Based on the count of each section, we can calculate precision and recall of each label:
+
+	Precision is a measure of the accuracy provided that a class label has been predicted. It is defined by: precision = TP / (TP + FP)
+
+	Recall is true positive rate. It is defined as: Recall = TP / (TP + FN)
+
+	So, we can calculate precision and recall of each class.
+
+	F1 score: Now we are in the position to calculate the F1 scores for each label based on the precision and recall of that label.
+
+	The F1 score is the harmonic average of the precision and recall, where an F1 score reaches its best value at 1 (perfect precision and recall) and worst at 0. It is a good way to show that a classifer has a good value for both recall and precision.
+
+	And finally, we can tell the average accuracy for this classifier is the average of the F1-score for both labels, which is 0.72 in our case.
+
+
+# KNN train --------------------------
+from sklearn.neighbors import KNeighborsClassifier
+
+k=5
+neigh = KNeighborsClassifier(n_neighbors = k).fit(X_train,y_train)
+neigh
+
+yhat = neigh.predict(X_test)
+-------------------------------------
+
+# DECISION TREE -------------
+X_trainset, X_testset, y_trainset, y_testset = train_test_split(X, y, test_size=0.3, random_state=3)
+
+LoanTree = DecisionTreeClassifier(criterion="entropy", max_depth = 4)
+
+LoanTree.fit(X_trainset,y_trainset)
+
+predTree = LoanTree.predict(X_testset)
+------------------------------
+
+# SVM train ---------------
+X_train, X_test, y_train, y_test = train_test_split( X, y, test_size=0.2, random_state=4)
+
+clf = svm.SVC(kernel='rbf')
+clf.fit(X_train, y_train) 
+
+yhat = clf.predict(X_test)
+---------------------------
+
+# Log Reg -----------------
+X = preprocessing.StandardScaler().fit(X).transform(X)
+
+X_train, X_test, y_train, y_test = train_test_split( X, y, test_size=0.2, random_state=4)
+
+yhat_prob = LogReg.predict_proba(X_test)
+
+LogReg_LogLoss = log_loss(y_test, yhat_prob)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DecisionTrees's Accuracy:  0.5882352941176471
+ Decision Tree jaccard = 0.9090909090909091
+Decision Tree f1 =  0.8658008658008658
+
+SVM f1  0.707070707070707
+SVM jaccard = 0.6363636363636364
+
+Log Reg Log Loss = 0.6519185214049965
+Log Reg f1 = 0.8658008658008658
+Log Reg Jaccard = 0.9090909090909091
+
+ KNN Jaccard = 0.9090909090909091
+ KNN f1 = 0.8658008658008658
+
+
+
+
+
+
+
+
+
+
+https://www.coursera.org/learn/machine-learning-with-python/peer/bsfc4/the-best-classifier/review/y1I4NweqEeu34hIf3v34gw
+
+
+
+
+https://eu-de.dataplatform.cloud.ibm.com/analytics/notebooks/v2/aa988a62-9b67-48c9-a351-8a3915c6f03e/view?access_token=9ed46ee9e5794ed35955be0f7429d4d29617be1bfdec408d25ce55a46a737fb0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ REPORT 1 - 
+	 df_scores=pd.DataFrame({'Algorithm_obj':[base,knn,tree,svm_est,lr],'Algorithm':['Baseline','KNN','Decision Tree','SVM','LogisticRegression']})
+
+	 df_scores['Jaccard']=df_scores['Algorithm_obj'].apply(lambda x: jaccard_similarity_score(y_test,x.predict(X_test)))
+
+		df_scores['F1-score']=df_scores['Algorithm_obj'].apply(lambda x: f1_score(y_test,x.predict(X_test)))
+		df_scores.loc[df_scores['Algorithm'].isin(['Baseline','LogisticRegression']),'LogLoss']=df_scores.loc[df_scores['Algorithm'].isin(['Baseline','LogisticRegression']),'Algorithm_obj'].apply(lambda x: log_loss(y_test,x.predict_proba(X_test)))
+		df_scores.loc[:,'Algorithm':]
+
+
+		fig,ax_arr=plt.subplots(2,3,figsize=(15,15))
+		fig.suptitle('Confusion matrices')
+
+		axs=ax_arr.flatten()
+
+		for i,row in df_scores.iterrows():
+		    cf_matrix=confusion_matrix(y_test,row['Algorithm_obj'].predict(X_test))
+		    labels = [f"{v1}\n{v2:.2%}" for v1, v2 in zip(cf_matrix.flatten(),(cf_matrix/np.sum(cf_matrix)).flatten())]
+		    labels = np.asarray(labels).reshape(2,2)
+		    sns.heatmap(cf_matrix, annot=labels,
+		            fmt='', cmap='Blues',ax=axs[i],cbar=False)
+		    axs[i].set_title(row['Algorithm'])
+		    axs[i].set_xlabel('Predicted')
+		    axs[i].set_ylabel('True')
+		                         
+		axs[5].remove()
+
+
+
+REPORT 2 -
+	test_df = pd.read_csv('loan_test.csv')
+	test_df.head()
+
+	#Match the features in loan_test as in loan_train
+	test_df['due_date'] = pd.to_datetime(test_df['due_date'])
+	test_df['effective_date'] = pd.to_datetime(test_df['effective_date'])
+	test_df['dayofweek'] = test_df['effective_date'].dt.dayofweek
+	test_df['weekend'] = test_df['dayofweek'].apply(lambda x: 1 if (x>3)  else 0)
+	Feature_alt = test_df[['Principal','terms','age','Gender','weekend']]
+	Feature_alt = pd.concat([Feature_alt,pd.get_dummies(test_df['education'])], axis=1)
+	X_test_alt = Feature_alt
+
+	#Data cleaning
+	Feature_alt.drop(['Master or Above'], axis = 1,inplace=True)
+
+	y_test_alt = test_df['loan_status']
+	le_status = preprocessing.LabelEncoder()
+	le_status.fit(["PAIDOFF","COLLECTION"])
+	y_test_alt = le_status.transform(y_test_alt)
+
+	X_test_alt['Gender'].replace(to_replace=['male','female'], value=[0,1],inplace=True)
+
+	#Convert feature set to numpy array of floats
+	X_test_alt=X_test_alt.values.astype("float")
+
+	#Normalise X
+	X_test_alt = preprocessing.StandardScaler().fit(X_test_alt).transform(X_test_alt)
+
+	average_type = ["weighted","binary"] # the type of averaging used in the F1 function
+	#KNN
+	KNN_pred = neigh.predict(X_test_alt)
+	j_knn = jaccard_similarity_score(y_test_alt, KNN_pred)
+	f1_knn = f1_score(y_test_alt,KNN_pred,average=average_type[1])
+
+	#DT
+	DT_pred = Tree.predict(X_test_alt)
+	j_dt = jaccard_similarity_score(y_test_alt, DT_pred)
+	f1_dt = f1_score(y_test_alt,DT_pred,average=average_type[1])
+
+	#SVM
+	SVM_pred = clf.predict(X_test_alt)
+	j_svm = jaccard_similarity_score(y_test_alt, SVM_pred)
+	f1_svm = f1_score(y_test_alt,SVM_pred,average=average_type[1])
+
+	#LR
+	LR_pred = LR.predict(X_test_alt)
+	LR_prob = LR.predict_proba(X_test_alt)
+	j_lr = jaccard_similarity_score(y_test_alt, LR_pred)
+	f1_lr = f1_score(y_test_alt,LR_pred,average=average_type[1])
+	lgls = log_loss(y_test_alt, LR_prob)
+
+	Scores = {"Algorithm":["KNN","Decision Tree","SVM","LogisticRegression"]}
+	Scores["Jaccard"] = [j_knn,j_dt,j_svm,j_lr]
+	Scores["F1-score"] = [f1_knn,f1_dt,f1_svm,f1_lr]
+	Scores["LogLoss"] = ["NA","NA","NA",lgls]
+
+	Score_df = pd.DataFrame(Scores)
+	Score_df.set_index("Algorithm",inplace=True)
+	Score_df
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ KNN Jaccard = 0.7285714285714285
+ KNN f1 = 0.6623376623376623
+
+
+DecisionTrees's Accuracy:  0.7403846153846154
+ Decision Tree jaccard = 0.7285714285714285
+Decision Tree f1 =  0.6623376623376623
+
+
+SVM f1  0.6697892271662764
+SVM jaccard = 0.7428571428571429
+
+
+Log Reg f1 = 0.6914285714285714
+Log Reg Jaccard = 0.7857142857142857
+Log Reg Log Loss = 0.600866678869581
+
+
+
+
+
+
+
+
+
+
+https://towardsdatascience.com/data-cleaning-with-python-and-pandas-detecting-missing-values-3e9c6ebcf78b?gi=4722b747be41 
+
+
+https://realpython.com/pandas-groupby/
+
+
+ line plots, bar graphs, scatterplots, and stem-and-leaf plots are best used to represent numerical data. Box plots
+
+use mean square error for numerical data
+use multiple Liner Regression for numerical values
+
+
+
+
+
+People living with HIV (all ages)
+https://www.gapminder.org/gapminder-world/documentation/gd006
+
+>> https://docs.google.com/spreadsheets/u/0/d/1kWH_xdJDM4SMfT_Kzpkk-1yuxWChfurZuWYjfmv51EA/pub?gid=1
+
+
+
+https://www.kite.com/python/answers/how-to-drop-empty-rows-from-a-pandas-dataframe-in-python
+
+https://data.world/sanfrancisco/g2t6-cyw6
+
+
+seattle bike-   hourly = pd.read_csv()
+
+
+
+
+
+
+lineplot(x, y, hue, size, style, data, palette, hue_order, hue_norm, sizes, size_order, size_norm, dashes, markers, style_order, units, estimator, ci, n_boot, sort, err_style, err_kws, legend, ax, **kwargs)
+
+
+
+
+
+
+https://github.com/PythonCoderUnicorn/Coursera_Capstone/blob/master/Capstone_Project_SeattleCycling.ipynb
+
+https://github.com/PythonCoderUnicorn/Coursera_Capstone/blob/master/Bicycling%20in%20Seattle.pdf
+
+
+
+
+
+github.com/gustavormoraes/Capstone-project/blob/master/Data.ipynb
+
+
+
+
+
+
+
+
